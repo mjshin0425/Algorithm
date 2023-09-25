@@ -1,3 +1,4 @@
+
 function solution(n) {
     var answer = 0;
     const numCheck = (k) => {
